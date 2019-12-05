@@ -1,4 +1,4 @@
-# Evidence Function Model Selection
+# Evidence Function and Model Selection
 
 ## Why "Evidence" called "Evidence"
 
