@@ -17,3 +17,5 @@ Should Dirichlet distribution be used to generate the random topic assignment of
 
 Then what does Dirichlet distribution really work on in the LDA model. It's the time to talk about it's property as a "Generative Model".
 
+
+(To be update -- 12/11/2019)
