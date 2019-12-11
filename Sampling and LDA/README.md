@@ -1,5 +1,7 @@
 # Sampling and LDA
 
+Inpired by Professor Rony Kardon's programming assignment in B555 - Machine Learning
+
 ## MH Sampling
 
 ## Gibbs Sampling
